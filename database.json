@@ -1,0 +1,22 @@
+{
+    "applicants": [
+        {
+            "fname": "",
+            "lname": "",
+            "regnum": "",
+            "email": "",
+            "github": "",
+            "course": "",
+            "year": ""
+        },
+        {
+            "fname": "",
+            "lname": "",
+            "regnum": "",
+            "email": "",
+            "github": "",
+            "course": "",
+            "year": ""
+        }
+    ]
+}
